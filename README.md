@@ -2,4 +2,6 @@
 
 <img src="./assests/borderseperator.gif">
 
+[![My Skills](https://skillicons.dev/icons?i=react,express,sequelize,postgres,postman,js,tailwind,materialui,git,github,html,css)](https://skillicons.dev)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=farzaneh-haghani&theme=highcontrast)](https://git.io/streak-stats)

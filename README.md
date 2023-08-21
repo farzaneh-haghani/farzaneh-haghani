@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=2000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Farzaneh! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Farzaneh">
+    <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Farzaneh! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Farzaneh">
     <img src="./assets/line.gif">
   </div>
 
@@ -24,7 +24,8 @@
     <h2>My Projects</h2>
     <ul align="left">
       <li><a href="https://starter-kit-all6.onrender.com" target="_blank">BookMe</a><span> This is a Full Stack App for business bookings. Find experts, arrange appointments with Google Calendar integration and Google Authentication (OAuth), manage data using Sequelize. User-friendly interface built on React and Express, enhanced by the sleek design of Material UI for a smooth and visually booking experience.</span></li>
-      <li><a href="https://teamwork-cafe-menu.netlify.app" target="_blank">Cafe Menu</a></li>
+      <br/>
+      <li><a href="https://teamwork-cafe-menu.netlify.app" target="_blank">Cafe Menu</a><span> This is a full stack app with admin panel for menu management, including additions, edits, deletions, and efficient search. Developed with React, Express, PostgreSQL, and Tailwind CSS for straightforward cafe offering management.</span></li>
       <li><a href="https://farzaneh-haghani-video-recommendation.netlify.app" target="_blank">Video Recommendation</a></li>
       <li><a href="https://teamwork-candycrush.netlify.app" target="_blank">Candy Crush</a></li>
       <li><a href="https://london9-amazon-clone-50-react-project.netlify.app" target="_blank">Amazon</a></li>

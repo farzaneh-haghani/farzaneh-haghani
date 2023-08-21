@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Farzaneh! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Farzaneh">
+    <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&center=true&vCenter=true&width=1200&height=70&lines=Hey%2C+I'm+Farzaneh! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Farzaneh">
     <img src="./assets/line.gif">
   </div>
 

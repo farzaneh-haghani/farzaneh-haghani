@@ -7,16 +7,30 @@
   <div>
     <ul align="left">
       <li>A Full Stack Web Developer. 👩‍💻</li>
+      <li>Self-learned test-driven development. ✅</li>
       <li>Passion for coding and collaboration. 🤝</li>
       <li>Strong problem-solving skills. 🧩</li>
       <li>Eager to learn and grow. 📚</li>
     </ul>
   </div>
 
-  <br/>
+<br/>
+  <div >
+    <h2>My CV</h2>
+    <h1>
+    <a href="https://drive.google.com/file/d/1fTwl1WcjjJQ7gRgyPaE6HQOqO1ayi1Ds/view?usp=sharing" target="_blank" style="text-decoration:none">📁</a>
+    </h1>
+</div>
+
+<br/>
   <div>
     <h2>My Skills</h2>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,sequelize,postgres,postman,js,tailwind,materialui,git,html,css" alt="My Skills" />
+    <h3>Backend Development:</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,jest,postgres,postman" alt="My Skills" />
+    <h3>Frontend Development:</h3>
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,materialui,html,css" alt="My Skills" />
+    <h3>Cloud and DevOps: </h3>
+    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" alt="My Skills" />
   </div>
 
   <br/>

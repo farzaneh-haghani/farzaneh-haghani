@@ -18,7 +18,7 @@
   <div >
     <h2>My Portfolio 🚀 </h2>
     <h1>
-    <a href="https://farzaneh-haghani.netlify.app" target="_blank" style="text-decoration:none">🌐</a>
+    <a href="https://farzaneh-haghani.vercel.app" target="_blank" style="text-decoration:none">🌐</a>
     </h1>
 </div>
 
@@ -26,9 +26,9 @@
   <div>
     <h2>My Skills 🛠️</h2>
     <h3>Backend Development:</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,jest,postgres,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,sequelize,jest,postgres,postman" alt="My Skills" />
     <h3>Frontend Development:</h3>
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,materialui,html,css" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,js,next,tailwind,materialui,html,css" alt="My Skills" />
     <h3>Cloud and DevOps: </h3>
     <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" alt="My Skills" />
   </div>

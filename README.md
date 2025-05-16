@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Farzaneh! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Farzaneh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Operator+Mono&size=37&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Farzaneh!👋;Welcome+to+my+Profile!🌟" alt="Hey! I'm Farzaneh" />
     <img src="./assets/line.gif">
   </div>
 
@@ -14,13 +14,13 @@
     </ul>
   </div>
 
-<!-- <br/>
+<br/>
   <div >
     <h2>My Portfolio 🚀 </h2>
     <h1>
     <a href="https://farzaneh-haghani.vercel.app" target="_blank" style="text-decoration:none">🌐</a>
     </h1>
-</div> -->
+</div>
 
 <br/>
   <div>
